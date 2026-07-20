@@ -1,0 +1,19 @@
+{
+  "name": "Invictus Security System",
+  "short_name": "Invictus Security",
+  "description": "Emergency SOS alert launcher with contacts, location, and SMS handoff.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101318",
+  "theme_color": "#101318",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
