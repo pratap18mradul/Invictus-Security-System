@@ -1,2 +1,29 @@
-# Security-System---Emergency-SOS
-🛡️Invictus Security System is a Progressive Web App (PWA) that enhances personal safety by sending emergency alerts with live GPS location via SMS and WhatsApp. It supports voice-activated SOS, one-touch emergency triggering, contact management, activity history, offline support, and a modern responsive interface built using HTML, CSS, and JS.
+# 🛡️ Invictus Security System
+
+A Progressive Web App (PWA) that helps users send emergency SOS alerts with live GPS location through SMS and WhatsApp.
+
+## 🚀 Live Demo
+
+https://pratap18mradul.github.io/Security-System---Emergency-SOS/
+
+## ✨ Features
+
+- 📍 Live GPS Location
+- 🆘 Emergency SOS Button
+- 🎙️ Voice Assistant
+- 📱 WhatsApp Integration
+- 💬 SMS Support
+- 👥 Emergency Contacts
+- 📜 Activity History
+- 🌐 Offline Support (PWA)
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Geolocation API
+- Web Speech API
+- Local Storage
+- Service Workers
+- Progressive Web App (PWA)
