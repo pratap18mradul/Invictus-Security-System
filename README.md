@@ -4,7 +4,7 @@ A Progressive Web App (PWA) that helps users send emergency SOS alerts with live
 
 ## 🚀 Live Demo
 
-https://pratap18mradul.github.io/Security-System---Emergency-SOS/
+https://pratap18mradul.github.io/Invictus-Security-System/
 
 ## ✨ Features
 
